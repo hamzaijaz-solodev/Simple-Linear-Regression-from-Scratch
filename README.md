@@ -18,7 +18,7 @@ This is a simple Linear Regression Project created from Scratch. The Model perfo
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+Solo student developer • Building all kinds of projects for fun • Always learning, always creating. 🚀
 
 
 ## Support or Hiring
