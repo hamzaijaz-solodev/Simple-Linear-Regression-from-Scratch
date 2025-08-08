@@ -7,7 +7,7 @@ This is a simple Linear Regression Project created from Scratch. The Model perfo
 ## This code includes:
 
 - Live Loss Funtion Output (Mean Squared Error).
-- prints out the values of m and b.
+- Prints out the values of slope (m) and intercept (b).
 - Takes Student's Study Hours as input and Predicts Score.
 - Graphical Representation of Data and Regression Line.
 
