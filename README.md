@@ -14,7 +14,7 @@ This is a simple Linear Regression Project created from Scratch. The Model perfo
 
 ## Example Graph
 
-![App Screenshot](‪D:\Desktop\Python 3.11 08_08_2025 20_54_47.png)
+![App Screenshot](https://github.com/user-attachments/assets/a9749898-0288-4138-a76e-7fa6cbcabc3f)
 
 
 ## 🚀 About Me
